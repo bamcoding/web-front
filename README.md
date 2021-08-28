@@ -29,10 +29,12 @@
 *xxx-child 주의사항
 1. .content p:nth-child(1)는 contents 클래스의 전체 후손 중에 p태그의 첫번째 요소이다.
 2. 위 선언문은 아래 상황에서 동작하지 않는다
-`<div class=".content">
+~~~
+<div class=".content">
   <div>1</div>
   <p>2</p>
-</div>`
+</div>
+~~~
 3. 기본 선택자 없이 사용 가능하므로 위와 같은 사례에 유의한다.
 
 
