@@ -1,12 +1,12 @@
 # web-front
-# CSS essential contents
-1. 기본 선택자
+## CSS essential contents
+### 1. 기본 선택자
 - 전체 선택자 
 - 태그 선택자
 - 클래스 선택자
 - ID 선택자
 
-2. 복합선택자
+### 2. 복합선택자
 - 일치 선택자 (EF)
 - 자식 선택자 (E > F)
 - 후손 선택자 (E F)
@@ -18,7 +18,7 @@
 - 마지막 선언으로 적용
 - 중요도 (!improtant)
 
-3. 가상요소 선택자(:)
+### 3. 가상요소 선택자(:)
 - hover
 - active
 - focus
